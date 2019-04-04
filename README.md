@@ -1,4 +1,4 @@
-# Sample C++ Code for C++ Course
+# Sample Code for C++ Course
 
 Some code is based on the following book:
 
