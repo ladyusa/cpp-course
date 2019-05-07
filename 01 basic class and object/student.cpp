@@ -2,6 +2,10 @@
 using namespace std;
 
 class Student {
+private:
+	int id_;
+	string name_;
+
 public:
 	int GetId() const {
 		return id_;
@@ -12,9 +16,6 @@ public:
 	void SetName(string n) {
 		name_ = n;
 	}
-private:
-	int id_;
-	string name_;
 }
 
 
