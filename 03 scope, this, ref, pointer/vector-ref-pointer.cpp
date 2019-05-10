@@ -57,7 +57,7 @@ int main() {
 
 	// ------ handle of object v ------
 	//  1. object name: v
-	//  2. object referenct: vRef
+	//  2. object reference: vRef
 	//  3. object pointer: vPtr
 	// -------------------------------
 	Vector &vRef = v;   // vRef is a reference to object v.

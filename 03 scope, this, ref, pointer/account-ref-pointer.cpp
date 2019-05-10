@@ -51,7 +51,7 @@ int main() {
 	// ------ handle of object v ------
 	//  1. object name: act1
 	//  2. object pointer: myPtr
-	//  3. object referenct: myRef
+	//  3. object reference: myRef
 	// -------------------------------
     BankAccount act1("Kwan"), act2("Kittiya", 500);
     act1.Deposit(1000);
