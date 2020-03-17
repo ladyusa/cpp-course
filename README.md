@@ -10,6 +10,7 @@ C How to program with an introduction to C++ by Paul Deitel, Harvey Deitel
 2. Overload Concept and Header Files ([video](https://www.youtube.com/playlist?list=PLFCfNaHOd4AJWd9kTWONR6iFD3mQIiFef))
 3. Scope, Pointer ([video](https://www.youtube.com/playlist?list=PLFCfNaHOd4AJlXX97lEz4MAA591Mruyck))
 4. Inheritance ([video](https://www.youtube.com/playlist?list=PLFCfNaHOd4AKHBuPdzCFp_JBYl3OSSDlR))
-5. Composition and Destructor ([video](https://www.youtube.com/playlist?list=PLFCfNaHOd4AKFnzX8YH_P7nbgK507czo0))
+5. Polymorphism ([video](https://www.youtube.com/playlist?list=PLFCfNaHOd4AJXBuY0Trb5WDSd-ev9sCe2))
+6. Composition and Destructor ([video](https://www.youtube.com/playlist?list=PLFCfNaHOd4AKFnzX8YH_P7nbgK507czo0))
 
 
